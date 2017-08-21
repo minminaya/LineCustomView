@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewSet</string>
+    <string name="title_activity_rope_bounce">RopeBounceActivity</string>
+</resources>
