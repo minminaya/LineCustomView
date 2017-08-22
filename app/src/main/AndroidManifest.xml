@@ -19,7 +19,7 @@
         <activity
             android:name=".activity.RopeBounceActivity"
             android:label="@string/title_activity_rope_bounce"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     </application>
 
 </manifest>
